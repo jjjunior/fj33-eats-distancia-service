@@ -1,0 +1,9 @@
+br/com/caelum/eats/distancia/CorsConfig.class
+br/com/caelum/eats/distancia/ResourceNotFoundException.class
+br/com/caelum/eats/distancia/RestaurantesController.class
+br/com/caelum/eats/distancia/RestauranteComDistanciaDto.class
+br/com/caelum/eats/distancia/DistanciaService.class
+br/com/caelum/eats/distancia/Restaurante.class
+br/com/caelum/eats/distancia/EatsDistanciaServiceApplication.class
+br/com/caelum/eats/distancia/RestaurantesMaisProximosController.class
+br/com/caelum/eats/distancia/RestauranteRepository.class
